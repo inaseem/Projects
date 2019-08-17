@@ -7,7 +7,7 @@ The data of the HVAC Component displayed is fetched and commands are sent to the
 
 ## Screenshots
 
-![alt text](shots/jouletrack/project.png?raw=true "Final Product Screenshot")
+![alt text](project.png?raw=true "Final Product Screenshot")
 
 ## Routing
 
