@@ -1,6 +1,8 @@
 # Graphing Module
 
-A module that fits itself to plot various types of parameters from an HVAC system. 
+A module that fits itself to plot various types of parameters from an HVAC system.
+**Note: Source code is available as a private repo due to company policy.**
+
 **Utilizes**
 - GraphQL
 - Node JS
