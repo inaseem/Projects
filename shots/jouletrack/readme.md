@@ -1,4 +1,5 @@
 # Offline JouleTrack
+**Note: Source code is available as a private repo due to company policy.**
 
 Design and develop the UI and Rest APIs of the application to run locally without the need of internet. The application should be capable of displaying data as well as send commands to 
 respective devices. The whole application resides in the frontend directory and uses very light frameworks for development.
